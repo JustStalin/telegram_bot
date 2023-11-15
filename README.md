@@ -21,6 +21,7 @@ https://drive.google.com/drive/folders/1YScU_W_zEJv5-M0e2z9ju7jE7oyz3-u2
 #gits
 https://github.com/seyoulax/vseross_ii
 https://github.com/kostopr4v/for_vseros
+https://github.com/GermanKek-lab/shpora_vseros
 
 https://drive.google.com/drive/folders/1uj-nX06qSwh9lvf3TO9Zi1JnMH0XFNFX?usp=sharing
 
